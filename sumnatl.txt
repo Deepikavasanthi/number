@@ -1,0 +1,6 @@
+for(l=0;l<=n;l++)
+        {
+            sum+=l;
+        }
+        System.out.println("the sum of the natural "+sum);
+       }
